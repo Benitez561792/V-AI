@@ -2,7 +2,7 @@
 
 **IA de consulta sobre acessibilidade para pessoas com deficiência visual**, parte do projeto **Vê AI**. Responde perguntas sobre o que as normas e leis exigem (calçadas, piso tátil, rampas, travessias, estabelecimentos) e classifica relatos de barreiras, sempre citando a seção da norma ou o artigo da lei de onde tirou a informação. Funciona sozinha, pelo terminal; a integração com a API Java do projeto é opcional.
 
-Disciplina: **Disruptive Architectures: IoT, IoB & Generative IA** · FIAP 2TDS · Global Solution 2026/2
+Disciplina: **Disruptive Architectures: IoT, IoB & Generative IA** · FIAP 2TDSPX · Global Solution 2026/2
 
 ## Integrantes
 
