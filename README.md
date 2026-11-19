@@ -6,12 +6,12 @@ Disciplina: **Disruptive Architectures: IoT, IoB & Generative IA** · FIAP 2TDS 
 
 ## Integrantes
 
-| RM | Nome | Papel |
-|---|---|---|
-| 561413 | Lucas Grillo Alcântara | 
-| 562027 | Lucca Ramos Mussumecci | 
-| 561469 | Pietro Ferreira Gomes Abrahamian | 
-| 561792 | Pedro Peres Benitez |  
+| RM | Nome 
+|---|---|---
+| 561413 | Lucas Grillo Alcântara 
+| 562027 | Lucca Ramos Mussumecci 
+| 561469 | Pietro Ferreira Gomes Abrahamian 
+| 561792 | Pedro Peres Benitez   
 
 ## Funcionalidade de IA
 
