@@ -1,6 +1,6 @@
 # Relatório · Consulta com e sem RAG
 
-Execução: `perguntas_20261119_0126.csv` · Gerado em 19/11/2026 01:28
+Execução: `perguntas_20261119_0126.csv` · Gerado em 19/11/2026 01:38
 
 | Métrica | Sem RAG | Com RAG |
 |---|---|---|
