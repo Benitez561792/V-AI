@@ -1,0 +1,26 @@
+{
+  "rag": {
+    "perguntas": 18,
+    "erros": 0,
+    "referenciasCitadas": 25,
+    "referenciaInexistente": 0.0,
+    "referenciaCorreta": 0.875,
+    "recusaForaDoEscopo": 1.0,
+    "respostaCorreta": null,
+    "respostasRevisadas": 0,
+    "latenciaP50": 2015.5,
+    "latenciaP95": 2780.2
+  },
+  "sem_rag": {
+    "perguntas": 18,
+    "erros": 0,
+    "referenciasCitadas": 22,
+    "referenciaInexistente": 0.045454545454545456,
+    "referenciaCorreta": 0.5,
+    "recusaForaDoEscopo": 1.0,
+    "respostaCorreta": null,
+    "respostasRevisadas": 0,
+    "latenciaP50": 2285.5,
+    "latenciaP95": 3520.65
+  }
+}

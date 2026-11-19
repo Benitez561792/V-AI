@@ -1,0 +1,10 @@
+Global Solution 2026/2 · Disruptive Architectures: IoT, IoB & Generative IA
+Projeto: Vê AI
+
+Integrantes:
+RM561413 - Lucas Grillo Alcântara
+RM562027 - Lucca Ramos Mussumecci
+RM561469 - Pietro Ferreira Gomes Abrahamian
+RM561792 - Pedro Peres Benitez
+
+Repositório: https://github.com/[usuario]/[repositorio]

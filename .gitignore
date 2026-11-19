@@ -1,0 +1,28 @@
+# Credenciais
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Fontes do RAG: a norma ABNT não é versionada (direitos autorais)
+data/fontes/*
+!data/fontes/README.md
+!data/fontes/fontes.exemplo.yaml
+# Leis públicas baixadas por "python -m app.rag.baixar_leis" podem ser versionadas
+!data/fontes/lei13146.txt
+!data/fontes/lei10098.txt
+!data/fontes/decreto5296.txt
+!data/fontes/fontes.yaml
+# Para versionar um guia público, adicione uma exceção, ex.:
+# !data/fontes/guia_calcadas_sp.pdf
+
+# Índice gerado a partir das fontes
+data/indice/*
+!data/indice/.gitkeep
+
+# Fotos da avaliação podem ter rostos e placas: fora do repositório por padrão
+avaliacao/fotos/*
+!avaliacao/fotos/.gitkeep

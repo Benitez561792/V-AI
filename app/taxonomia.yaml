@@ -1,0 +1,33 @@
+# Fonte única dos tipos usados pelo schema da saída estruturada, pelo RAG, pela API e pela avaliação.
+# Para adicionar ou mudar um tipo: edite este arquivo e reinicie o serviço.
+# O schema JSON, os prompts e a validação são gerados a partir daqui.
+
+barreiras:
+  # Mesmos valores do enum TipoRelato da API Java e do CHECK ck_relato_tipo no Oracle.
+  # Para mudar, alterem os três juntos.
+  CALCADA_DANIFICADA: "Buraco, afundamento, piso quebrado ou solto, raízes ou desnível na calçada"
+  OBSTRUCAO_PERMANENTE: "Poste, lixeira, placa, árvore, mobiliário ou objeto suspenso fixo bloqueando a faixa de circulação"
+  PISO_TATIL: "Piso tátil ausente, interrompido, danificado ou levando a um obstáculo"
+  RAMPA: "Rampa de acesso ausente, íngreme, quebrada ou bloqueada"
+  SEMAFORO_SEM_SOM: "Semáforo de pedestres sem sinal sonoro ou travessia sem recurso acessível"
+  OBRA_SEM_SINALIZACAO: "Obra, tapume ou entulho sem rota alternativa protegida e sinalizada"
+  OUTRO: "Barreira estrutural que não se encaixa nos tipos acima"
+
+perigos:
+  veiculo: "Carro, moto, ônibus ou caminhão em movimento ou manobrando"
+  bicicleta_ou_patinete: "Bicicleta, patinete ou similar na rota"
+  pessoa: "Pessoa no caminho ou vindo em direção ao usuário"
+  animal: "Animal no caminho"
+  buraco_ou_desnivel: "Buraco, valeta, bueiro aberto ou desnível no piso"
+  degrau_ou_escada: "Degrau, escada ou meio-fio à frente"
+  obstaculo_fixo: "Poste, lixeira, carro estacionado na calçada ou outro objeto parado no caminho"
+  obstaculo_suspenso: "Objeto na altura do tronco ou da cabeça"
+  obra: "Obra, tapume, entulho ou material de construção"
+  superficie_escorregadia: "Piso molhado, liso, com lama ou óleo"
+  outro: "Outro risco de queda, colisão ou atropelamento"
+
+gravidades:
+  # Mesmos valores do enum Gravidade da API Java (pesos 1/3/5 na prioridade).
+  BAIXA: "Incomoda, mas dá para contornar com segurança sem sair da calçada"
+  MEDIA: "Exige desvio ou ajuda; risco de tropeço"
+  ALTA: "Risco de queda, de ir para a rua, bloqueio total da rota ou risco grave e imediato"

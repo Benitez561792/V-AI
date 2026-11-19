@@ -1,0 +1,19 @@
+id,pergunta,secao_esperada,observacao
+p01,Qual a largura mínima da faixa livre da calçada?,9050 6.12.3,"1,20 m"
+p02,Qual a altura livre mínima que a faixa livre da calçada deve ter?,9050 6.12.3,"2,10 m"
+p03,Qual a inclinação transversal máxima permitida na faixa livre da calçada?,9050 6.12.1; 9050 6.12.3,3 %
+p04,Qual a inclinação máxima do rebaixamento de calçada na travessia de pedestres?,9050 6.12.7,"Preferencialmente menos de 5 %, até 8,33 %"
+p05,Qual desnível no piso dispensa tratamento especial em uma rota acessível?,9050 6.3.4,Até 5 mm
+p06,Qual o tamanho máximo dos vãos de uma grelha que fica na rota de pedestres?,9050 6.3.5,15 mm
+p07,Como deve ser tratada uma obra sobre o passeio para não prejudicar a circulação?,9050 6.12.5,"Sinalizada e isolada, com 1,20 m livres"
+p08,Os semáforos para pedestres precisam ter sinal sonoro?,9050 5.6.4.3; 9050 8.2.2.3,
+p09,Como deve ser a sinalização tátil no piso em uma travessia de pedestres?,16537 6.6,
+p10,Como sinalizar no piso um orelhão ou outro elemento suspenso na calçada?,16537 6.8,Alerta no entorno da projeção
+p11,Qual deve ser a largura da sinalização tátil direcional?,16537 7.3.7,"Entre 0,25 m e 0,40 m"
+p12,Qual a distância mínima entre o piso tátil direcional e paredes ou obstáculos?,16537 7.7.1,"0,60 m (recomendado 1,00 m)"
+p13,O piso tátil direcional precisa ser contínuo ao longo da calçada?,16537 7.8.1,
+p14,Quando é preciso colocar piso tátil de alerta no início e no fim de uma escada?,16537 6.4; 16537 6.5,
+p15,Tenho uma loja com um degrau na entrada e sem rampa. O que preciso adequar para clientes cegos?,9050 6.3.4; 9050 6.6; 16537 6.4,Pergunta de conformidade de estabelecimento
+p16,Qual a inclinação máxima de uma rampa de acesso?,9050 6.6.2,"8,33 % com limites da Tabela 4"
+p17,Qual o horário de funcionamento do metrô de São Paulo?,nenhuma,Fora do escopo
+p18,Quanto custa em média instalar piso tátil por metro quadrado?,nenhuma,Fora do escopo

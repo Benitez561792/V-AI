@@ -1,0 +1,8 @@
+arquivo,origem,grupo,modo,perigos_esperados,barreira_esperada,secao_esperada,imagem_ruim_esperada,observacao
+calcada_buraco_01.jpg,propria,barreira,ambiente,buraco_ou_desnivel,CALCADA_DANIFICADA,,nao,Buraco grande na faixa livre perto do meio-fio
+calcada_lixeira_02.jpg,propria,barreira,ambiente,obstaculo_fixo,OBSTRUCAO_PERMANENTE,,nao,Lixeira bloqueia metade da calçada
+travessia_carro_03.jpg,propria,perigo,ambiente,veiculo; pessoa,,,nao,Carro saindo da garagem e pedestre à direita
+calcada_ok_04.jpg,propria,sem_barreira,ambiente,,,,nao,Calçada larga e regular
+placa_onibus_05.jpg,propria,texto,texto,,,,nao,Placa do ponto com linhas de ônibus
+vizwiz_escura_06.jpg,vizwiz,falha,ambiente,,,,sim,Foto quase toda preta
+vizwiz_tremida_07.jpg,vizwiz,falha,ambiente,,,,sim,Foto tremida de objeto indefinido

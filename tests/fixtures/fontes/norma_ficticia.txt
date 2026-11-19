@@ -1,0 +1,26 @@
+DOCUMENTO FICTÍCIO PARA TESTES AUTOMATIZADOS
+Este arquivo NÃO é o texto da ABNT NBR 9050. Serve só para testar o chunking e a busca.
+
+Sumário
+1 Objetivo
+2 Piso tátil
+
+1 Objetivo
+Este documento de teste descreve regras inventadas de acessibilidade em calçadas.
+1 m de largura é um exemplo de linha de corpo que não deve virar seção.
+
+2 Sinalização tátil
+2.1 Piso tátil de alerta
+O piso tátil de alerta deve existir antes de rampas, escadas e obstáculos suspensos.
+O piso tátil não pode estar interrompido nem danificado.
+
+2.2 Piso tátil direcional
+O piso tátil direcional orienta o percurso e deve ser contínuo ao longo da calçada.
+
+3 Calçadas
+3.1 Faixa livre
+A faixa livre da calçada deve estar sem postes, lixeiras, placas ou mobiliário.
+Buracos e desníveis na faixa livre devem ser corrigidos.
+
+3.2 Rampas de acesso
+A rampa de acesso na travessia deve ter inclinação suave e estar sem obstruções.

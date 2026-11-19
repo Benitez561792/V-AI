@@ -1,0 +1,27 @@
+id,texto,tipo_relato,tipo_esperado,gravidade_esperada,secao_esperada,observacao
+r01,Tem um buraco grande no meio da calçada em frente ao número 120. Quase caí.,CALCADA_DANIFICADA,CALCADA_DANIFICADA,ALTA,9050 6.3,
+r02,A calçada está toda quebrada e com pedras soltas perto do mercado.,CALCADA_DANIFICADA,CALCADA_DANIFICADA,MEDIA,9050 6.3,
+r03,As raízes da árvore levantaram o piso e formaram um degrau na calçada.,CALCADA_DANIFICADA,CALCADA_DANIFICADA,MEDIA,9050 6.3,
+r04,Um poste fica bem no meio da calçada e a passagem que sobra é muito estreita.,OBSTRUCAO_PERMANENTE,OBSTRUCAO_PERMANENTE,ALTA,9050 6.12.3; 9050 6.12.6,
+r05,Colocaram uma lixeira fixa no caminho e eu bato nela toda vez.,OBSTRUCAO_PERMANENTE,OBSTRUCAO_PERMANENTE,MEDIA,9050 6.12.3; 9050 6.12.6,
+r06,Tem uma placa de propaganda na altura da cabeça e a bengala não encontra nada no chão embaixo dela.,OBSTRUCAO_PERMANENTE,OBSTRUCAO_PERMANENTE,ALTA,16537 6.8; 9050 6.12.3,Obstáculo suspenso
+r07,O orelhão está na calçada sem nada no piso para avisar que ele existe.,OBSTRUCAO_PERMANENTE,OBSTRUCAO_PERMANENTE,ALTA,16537 6.8,Obstáculo suspenso
+r08,O piso tátil acaba de repente no meio do quarteirão.,PISO_TATIL,PISO_TATIL,MEDIA,16537 7.8; 16537 7.3,
+r09,O piso tátil direcional me leva direto para um poste.,PISO_TATIL,PISO_TATIL,ALTA,16537 7.7; 16537 7.3,
+r10,Não tem piso de alerta antes da rampa da esquina e eu desço sem perceber.,PISO_TATIL,PISO_TATIL,ALTA,16537 6.6; 16537 6.4,
+r11,Várias placas do piso tátil estão soltas e quebradas na frente da estação.,PISO_TATIL,PISO_TATIL,MEDIA,16537 8; 16537 5,
+r12,Não existe rampa na esquina para atravessar a rua.,RAMPA,RAMPA,ALTA,9050 6.12.7,
+r13,A rampa é muito íngreme e escorregadia quando chove.,RAMPA,RAMPA,MEDIA,9050 6.12.7; 9050 6.6,
+r14,Tem um carro sempre estacionado bloqueando a rampa de acesso.,RAMPA,RAMPA,MEDIA,9050 6.12.7,Bloqueio recorrente; não é barreira estrutural da rampa em si
+r15,O semáforo de pedestres da avenida não tem som e eu não sei quando atravessar.,SEMAFORO_SEM_SOM,SEMAFORO_SEM_SOM,ALTA,9050 5.6.4.3; 9050 8.2.2.3,
+r16,O botão do semáforo existe mas o aviso sonoro não funciona há meses.,SEMAFORO_SEM_SOM,SEMAFORO_SEM_SOM,ALTA,9050 5.6.4.3; 9050 8.2.2.3,
+r17,A faixa de pedestres está apagada e não tem nenhum sinal sonoro.,SEMAFORO_SEM_SOM,SEMAFORO_SEM_SOM,ALTA,9050 5.6.4.3; 9050 8.2.2.3; 9050 6.12.8; 16537 6.6,Mistura dois problemas
+r18,Abriram uma vala na calçada e não tem tapume nem caminho alternativo.,OBRA_SEM_SINALIZACAO,OBRA_SEM_SINALIZACAO,ALTA,9050 6.12.5,
+r19,Tem entulho de obra ocupando toda a calçada e fui obrigado a andar pela rua.,OBRA_SEM_SINALIZACAO,OBRA_SEM_SINALIZACAO,ALTA,9050 6.12.5,
+r20,A obra colocou tapume mas a passagem ficou estreita e sem corrimão.,OBRA_SEM_SINALIZACAO,OBRA_SEM_SINALIZACAO,MEDIA,9050 6.12.5,
+r21,Tem um degrau isolado na entrada da praça sem nenhuma sinalização.,OUTRO,CALCADA_DANIFICADA,ALTA,16537 6.4; 9050 6.3.4,Cidadão escolheu OUTRO
+r22,A grade do bueiro está com os vãos largos e a ponta da bengala fica presa.,OUTRO,CALCADA_DANIFICADA,MEDIA,9050 6.3.5,Cidadão escolheu OUTRO
+r23,Buraco perto da rampa.,RAMPA,CALCADA_DANIFICADA,MEDIA,9050 6.3; 9050 6.12.7,Relato curto e ambíguo
+r24,A banca de jornal ocupa quase toda a calçada.,OUTRO,OBSTRUCAO_PERMANENTE,MEDIA,9050 6.12.3; 9050 6.12.6,Cidadão escolheu OUTRO
+r25,O ônibus da linha 875 sempre atrasa de manhã.,OUTRO,OUTRO,BAIXA,nenhuma,Fora do escopo: não deve citar norma
+r26,Tem muita gente na calçada na hora do almoço.,OUTRO,OUTRO,BAIXA,nenhuma,Fora do escopo: não deve citar norma
